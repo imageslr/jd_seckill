@@ -2,6 +2,7 @@
 __pycache__/
 *.py[cod]
 *$py.class
+qrcode.txt
 
 # C extensions
 *.so
